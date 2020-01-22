@@ -26,6 +26,6 @@ TABS - coz I need my SPACE
 
 ## Acknowledgments
 
-* Eugene Stark 
-* CSE 320
-* Stony Brook University
+- Eugene Stark 
+- CSE 320
+- Stony Brook University
